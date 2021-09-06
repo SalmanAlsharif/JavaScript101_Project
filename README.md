@@ -1,4 +1,4 @@
-# JavaScript101_Project
+# Satr_Project
 
 مشروع إنشاء مكتبة Bookstore
 - إضافة الكتب وتعديلها وحذفها وعرض معلوماتها
